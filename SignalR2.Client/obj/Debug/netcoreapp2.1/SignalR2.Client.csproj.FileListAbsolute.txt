@@ -1,0 +1,11 @@
+D:\coProject\websocket\SignalR2.Client\SignalR2.Client\bin\Debug\netcoreapp2.1\SignalR2.Client.deps.json
+D:\coProject\websocket\SignalR2.Client\SignalR2.Client\bin\Debug\netcoreapp2.1\SignalR2.Client.runtimeconfig.json
+D:\coProject\websocket\SignalR2.Client\SignalR2.Client\bin\Debug\netcoreapp2.1\SignalR2.Client.runtimeconfig.dev.json
+D:\coProject\websocket\SignalR2.Client\SignalR2.Client\bin\Debug\netcoreapp2.1\SignalR2.Client.dll
+D:\coProject\websocket\SignalR2.Client\SignalR2.Client\obj\Debug\netcoreapp2.1\SignalR2.Client.csprojAssemblyReference.cache
+D:\coProject\websocket\SignalR2.Client\SignalR2.Client\obj\Debug\netcoreapp2.1\SignalR2.Client.csproj.CoreCompileInputs.cache
+D:\coProject\websocket\SignalR2.Client\SignalR2.Client\obj\Debug\netcoreapp2.1\SignalR2.Client.AssemblyInfoInputs.cache
+D:\coProject\websocket\SignalR2.Client\SignalR2.Client\obj\Debug\netcoreapp2.1\SignalR2.Client.AssemblyInfo.cs
+D:\coProject\websocket\SignalR2.Client\SignalR2.Client\bin\Debug\netcoreapp2.1\SignalR2.Client.pdb
+D:\coProject\websocket\SignalR2.Client\SignalR2.Client\obj\Debug\netcoreapp2.1\SignalR2.Client.dll
+D:\coProject\websocket\SignalR2.Client\SignalR2.Client\obj\Debug\netcoreapp2.1\SignalR2.Client.pdb
